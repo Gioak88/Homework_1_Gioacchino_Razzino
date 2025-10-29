@@ -1,0 +1,22 @@
+[0.024s] Invoking command in '/home/user/ros2_ws/src/armando_gazebo/build/armando_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/user/ros2_ws/src/armando_gazebo/build/armando_gazebo -- -j12 -l12
+[0.100s] Invoked command in '/home/user/ros2_ws/src/armando_gazebo/build/armando_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/user/ros2_ws/src/armando_gazebo/build/armando_gazebo -- -j12 -l12
+[0.119s] Invoking command in '/home/user/ros2_ws/src/armando_gazebo/build/armando_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/user/ros2_ws/src/armando_gazebo/build/armando_gazebo
+[0.131s] -- Install configuration: ""
+[0.131s] -- Up-to-date: /home/user/ros2_ws/src/armando_gazebo/install/armando_gazebo/share/armando_gazebo/launch/launch
+[0.132s] -- Installing: /home/user/ros2_ws/src/armando_gazebo/install/armando_gazebo/share/armando_gazebo/launch/launch/armando_world.launch.py
+[0.132s] -- Up-to-date: /home/user/ros2_ws/src/armando_gazebo/install/armando_gazebo/share/ament_index/resource_index/package_run_dependencies/armando_gazebo
+[0.132s] -- Up-to-date: /home/user/ros2_ws/src/armando_gazebo/install/armando_gazebo/share/ament_index/resource_index/parent_prefix_path/armando_gazebo
+[0.132s] -- Up-to-date: /home/user/ros2_ws/src/armando_gazebo/install/armando_gazebo/share/armando_gazebo/environment/ament_prefix_path.sh
+[0.132s] -- Up-to-date: /home/user/ros2_ws/src/armando_gazebo/install/armando_gazebo/share/armando_gazebo/environment/ament_prefix_path.dsv
+[0.132s] -- Up-to-date: /home/user/ros2_ws/src/armando_gazebo/install/armando_gazebo/share/armando_gazebo/environment/path.sh
+[0.132s] -- Up-to-date: /home/user/ros2_ws/src/armando_gazebo/install/armando_gazebo/share/armando_gazebo/environment/path.dsv
+[0.132s] -- Up-to-date: /home/user/ros2_ws/src/armando_gazebo/install/armando_gazebo/share/armando_gazebo/local_setup.bash
+[0.132s] -- Up-to-date: /home/user/ros2_ws/src/armando_gazebo/install/armando_gazebo/share/armando_gazebo/local_setup.sh
+[0.133s] -- Up-to-date: /home/user/ros2_ws/src/armando_gazebo/install/armando_gazebo/share/armando_gazebo/local_setup.zsh
+[0.133s] -- Up-to-date: /home/user/ros2_ws/src/armando_gazebo/install/armando_gazebo/share/armando_gazebo/local_setup.dsv
+[0.133s] -- Up-to-date: /home/user/ros2_ws/src/armando_gazebo/install/armando_gazebo/share/armando_gazebo/package.dsv
+[0.133s] -- Up-to-date: /home/user/ros2_ws/src/armando_gazebo/install/armando_gazebo/share/ament_index/resource_index/packages/armando_gazebo
+[0.133s] -- Up-to-date: /home/user/ros2_ws/src/armando_gazebo/install/armando_gazebo/share/armando_gazebo/cmake/armando_gazeboConfig.cmake
+[0.133s] -- Up-to-date: /home/user/ros2_ws/src/armando_gazebo/install/armando_gazebo/share/armando_gazebo/cmake/armando_gazeboConfig-version.cmake
+[0.133s] -- Up-to-date: /home/user/ros2_ws/src/armando_gazebo/install/armando_gazebo/share/armando_gazebo/package.xml
+[0.137s] Invoked command in '/home/user/ros2_ws/src/armando_gazebo/build/armando_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/user/ros2_ws/src/armando_gazebo/build/armando_gazebo
